@@ -66,8 +66,3 @@ For the parts 1-4 use the 2000-2019 seasons only,
     • Title should be appropriate for the graph.
     • Axis names should be changed where necessary.
     • The graph should be visually appealing, so be careful with the use of color.
-
-
-Alteryx Workflows
-
-Tableau Screenshots
